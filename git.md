@@ -33,7 +33,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </th>
 <tr>
   <td>Repo / Repository</td>
-  <td>Definition</td>
+  <td>This is your object database were your history and configuration is stored. May contain several branches. Often it contains a worktree too.</td>
 </tr>
 <tr>
   <td>Public repo</td>
@@ -97,7 +97,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Octocat</td>
-  <td>Definition</td>
+  <td>The github mascot</td>
 </tr>
 </table>
 
